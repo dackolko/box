@@ -10,6 +10,8 @@ namespace CashBox
     {
         static void Main(string[] args)
         {
+            TestOrder testOrder = new TestOrder();
+            testOrder.TestAddFirst();
         }
     }
 }

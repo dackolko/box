@@ -1,0 +1,7 @@
+D:\Projects\CashBox\CashBox\bin\Debug\CashBox.exe.config
+D:\Projects\CashBox\CashBox\bin\Debug\CashBox.exe
+D:\Projects\CashBox\CashBox\bin\Debug\CashBox.pdb
+D:\Projects\CashBox\CashBox\obj\Debug\CashBox.csprojAssemblyReference.cache
+D:\Projects\CashBox\CashBox\obj\Debug\CashBox.csproj.CoreCompileInputs.cache
+D:\Projects\CashBox\CashBox\obj\Debug\CashBox.exe
+D:\Projects\CashBox\CashBox\obj\Debug\CashBox.pdb
